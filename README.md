@@ -35,7 +35,7 @@ Whether you're a student, analyst, researcher, or business owner, Analytics Assi
 ## 🚀 Getting Started (For Contributors)
 
 ```bash
-git clone https://github.com/yourusername/analytics-assist.git
+git clone https://github.com/dlbmoney92/analytics-assist.git
 cd analytics-assist
 pip install -r requirements.txt
 streamlit run app.py
